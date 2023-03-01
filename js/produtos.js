@@ -14,7 +14,7 @@ for (let i = 0; i < produtos.produto.length; i++) {
 document.getElementById("produtos").innerHTML = prod;
 
 function linkPage(a) {
-    window.location.href = a;
+    window.location.href = `${a}`;
 }
 
 function searchProd() {
