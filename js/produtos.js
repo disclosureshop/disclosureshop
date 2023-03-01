@@ -1,3 +1,6 @@
+// teste
+
+
 var prod = '';
 var produtos = {"produto":  [
     {"img": 'assets/logo.jpeg', "nome": 'Carregador de celular1', "link": 'www.google.com.br'},
