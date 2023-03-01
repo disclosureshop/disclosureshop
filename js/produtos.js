@@ -8,8 +8,7 @@ var produtos = {"produto":  [
 
 
 for (let i = 0; i < produtos.produto.length; i++) {
-    prod += `<div class='col-6 mb-3 p-0' onclick='linkPage(${produtos.produto[i].link})'><div class='container'><div class='card' width='500px'><img src='./${produtos.produto[i].img}' class='card-img-top' alt='...'><div class='card-body'><h5 class='card-title'>${produtos.produto[i].nome}</h5></div></div></div></div>`;
-
+    prod += `<a onclick='linkPage(${produtos.produto[i].link})'><div class='col-6 mb-3 p-0'><div class='container'><div class='card' width='500px'><img src='./${produtos.produto[i].img}' class='card-img-top' alt='...'><div class='card-body'><h5 class='card-title'>${produtos.produto[i].nome}</h5></div></div></div></div></a>`;
 }
 document.getElementById("produtos").innerHTML = prod;
 
