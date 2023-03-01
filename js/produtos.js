@@ -10,7 +10,7 @@ var produtos = {"produto":  [
 ]};
 
 for (let i = 0; i < produtos.produto.length; i++) {
-    prod += "<div class='col-6 mb-3 p-0'><div class='container'><a class='card' target='_blank' href='"+produtos.produto[i].link+"' width='500px'><img src='./"+produtos.produto[i].img+"' class='card-img-top' alt='...'><div class='card-body'><h5 class='card-title'>"+produtos.produto[i].nome+"</h5></div></a></div></div>";
+    prod += "<div class='col-6 mb-3 p-0'><div class='container'><a class='card' target='_blank' href='"+produtos.produto[i].link+"' width='500px'><img src='"+produtos.produto[i].img+"' class='card-img-top' alt='...'><div class='card-body'><h5 class='card-title'>"+produtos.produto[i].nome+"</h5></div></a></div></div>";
 }
 
 document.getElementById("produtos").innerHTML = prod;
