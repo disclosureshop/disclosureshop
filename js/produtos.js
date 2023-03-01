@@ -3,8 +3,8 @@
 
 var prod = '';
 var produtos = {"produto":  [
-    {"img": 'assets/logo.jpeg', "nome": '01 - S7 SMART WATCH', "link": 'https://shope.ee/7KPi0TLmAj'},
-    {"img": 'assets/logo.jpeg', "nome": '02 - CAIXINHA DE SOM', "link": 'https://shope.ee/1flLMgHhkV'},
+    {"img": 'https://cf.shopee.com.br/file/sg-11134201-22100-hp92pecueriv45', "nome": '01 - S7 SMART WATCH', "link": 'https://shope.ee/7KPi0TLmAj'},
+    {"img": 'https://cf.shopee.com.br/file/ce5cf94bfd3acbc8bb4c633ad2dbcbb3', "nome": '02 - CAIXINHA DE SOM', "link": 'https://shope.ee/1flLMgHhkV'},
     {"img": 'assets/logo.jpeg', "nome": 'Carregador de celular3', "link": 'https://google.com.br'},
     {"img": 'assets/logo.jpeg', "nome": 'Carregador de celular4', "link": 'https://google.com.br'}
 ]};
