@@ -1,9 +1,9 @@
 var prod = '';
 var produtos = {"produto":  [
-    {"img": 'assets/logo.jpeg', "nome": 'Carregador de celular1', "link": 'google.com.br'},
-    {"img": 'assets/logo.jpeg', "nome": 'Carregador de celular2', "link": 'google.com.br'},
-    {"img": 'assets/logo.jpeg', "nome": 'Carregador de celular3', "link": 'google.com.br'},
-    {"img": 'assets/logo.jpeg', "nome": 'Carregador de celular4', "link": 'google.com.br'}
+    {"img": 'assets/logo.jpeg', "nome": 'Carregador de celular1', "link": 'www.google.com.br'},
+    {"img": 'assets/logo.jpeg', "nome": 'Carregador de celular2', "link": 'www.google.com.br'},
+    {"img": 'assets/logo.jpeg', "nome": 'Carregador de celular3', "link": 'www.google.com.br'},
+    {"img": 'assets/logo.jpeg', "nome": 'Carregador de celular4', "link": 'www.google.com.br'}
 ]};
 
 
