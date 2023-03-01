@@ -8,14 +8,14 @@ var produtos = {"produto":  [
 
 
 for (let i = 0; i < produtos.produto.length; i++) {
-    prod += `<div class='col-6 mb-3 p-0' onclick='linkPage(${produtos.produto[i].link})'><div class='container'><div class='card' width='500px'><img src='./${produtos.produto[i].img}' class='card-img-top' alt='...'><div class='card-body'><h5 class='card-title'>${produtos.produto[i].nome}</h5></div></div></div></div>`;
+    prod += `<div class='col-6 mb-3 p-0' onclick="linkPage('www.speedteste.com')"><div class='container'><div class='card' width='500px'><img src='./${produtos.produto[i].img}' class='card-img-top' alt='...'><div class='card-body'><h5 class='card-title'>${produtos.produto[i].nome}</h5></div></div></div></div>`;
 
-    function linkPage(a) {
-        window.location.href = `${a}`;
-    }
 }
 document.getElementById("produtos").innerHTML = prod;
 
+function linkPage(a) {
+    window.location.href = `${a}`;
+}
 
 function searchProd() {
     var input, filter, cards, cardContainer, title, i;
