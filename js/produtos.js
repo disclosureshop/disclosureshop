@@ -4,6 +4,7 @@
 var prod = '';
 var produtos = {"produto":  [
     // {"img": 'assets/logo.jpeg', "nome": '04 - fone de ouvido sem fio bluetooth Pikachu', "link": ''},
+    {"img": 'assets/logo.jpeg', "nome": '04 - fone de ouvido sem fio bluetooth Pikachu', "link": ''},
     {"img": 'https://cf.shopee.com.br/file/298a2964003347b84448c9d0972f169a', "nome": '04 - Fone De Ouvido Sem Fio Bluetooth Pikachu', "link": 'https://shope.ee/5KedeQWAxl'},
     {"img": 'https://cf.shopee.com.br/file/8b6cb757b119f3f3589151890e6fa99b', "nome": '03 - Fone De Ouvido Com Capa De Silicone Kuromi Airpods', "link": 'https://shope.ee/8KIFDGt76B'},
     {"img": 'https://cf.shopee.com.br/file/ce5cf94bfd3acbc8bb4c633ad2dbcbb3', "nome": '02 - Caixinha De Som', "link": 'https://shope.ee/1flLMgHhkV'},
