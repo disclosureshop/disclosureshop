@@ -4,6 +4,7 @@
 var prod = '';
 var produtos = {"produto":  [
     // {"img": 'assets/logo.jpeg', "nome": '04 - fone de ouvido sem fio bluetooth Pikachu', "link": ''},
+    {"img": 'https://cf.shopee.com.br/file/br-11134201-22120-xt3g1wivdqkvcb', "nome": '11 - Contact para geladeira fogao microondas e etc.', "link": 'https://shope.ee/2feDslSQOv'},
     {"img": 'https://cf.shopee.com.br/file/27a1dc4f41ba48dd31960d774929772c', "nome": '10 - Películas de vidro para Iphones', "link": 'https://shope.ee/2feBwcwkgC'}, 
     {"img": 'https://cf.shopee.com.br/file/fea8f61f4a0678df3caf6185cfcaebcb', "nome": '09 - Capinha de Silicone para Iphones', "link": 'https://shope.ee/9KB5tVeZzU'},
     {"img": 'https://cf.shopee.com.br/file/e76c1efb6b1ef420763bb3a0e79153c1', "nome": '08 - Placa Ripada 30 x 30CM kit com 22peças 260 reais', "link": 'https://shope.ee/4pidpLGk0S'},
