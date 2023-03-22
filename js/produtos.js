@@ -4,6 +4,7 @@
 var prod = '';
 var produtos = {"produto":  [
     // {"img": 'assets/logo.jpeg', "nome": '04 - fone de ouvido sem fio bluetooth Pikachu', "link": ''},
+    {"img": 'https://down-br.img.susercontent.com/file/ca61d6194860411f2e0b255d45ac1f99', "nome": '15 - Kit com 12 Talheres de Silicone', "link": 'https://shope.ee/5UybDXlLtY'},
     {"img": 'https://down-br.img.susercontent.com/file/3f32d18c6889e5638005f628a0ef6f5d', "nome": '14 - Papel de Parede 3D', "link": 'https://shope.ee/99rtZeMxI8'},
     {"img": 'https://down-br.img.susercontent.com/file/ed63b17a61f99b9fee031aa72ac2adb7', "nome": '13 - Tapete Grama Sintetica 2,00m x 1,00m', "link": 'https://shope.ee/2L1ZQ67PMY'},
     {"img": 'https://down-br.img.susercontent.com/file/63375dc696bede5d2f1ed5a9baddedc4', "nome": '12 - Pipoqueira de Silicone', "link": 'https://shope.ee/5ALc6uUzcB'},
