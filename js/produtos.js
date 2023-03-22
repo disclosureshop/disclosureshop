@@ -4,6 +4,7 @@
 var prod = '';
 var produtos = {"produto":  [
     // {"img": 'assets/logo.jpeg', "nome": '04 - fone de ouvido sem fio bluetooth Pikachu', "link": ''},
+    {"img": 'https://down-br.img.susercontent.com/file/ed63b17a61f99b9fee031aa72ac2adb7', "nome": '13 - Tapete Grama Sintetica 2,00m x 1,00m', "link": 'https://shope.ee/2L1ZQ67PMY'},
     {"img": 'https://down-br.img.susercontent.com/file/63375dc696bede5d2f1ed5a9baddedc4', "nome": '12 - Pipoqueira de Silicone', "link": 'https://shope.ee/5ALc6uUzcB'},
     {"img": 'https://cf.shopee.com.br/file/br-11134201-22120-xt3g1wivdqkvcb', "nome": '11 - Contact para geladeira fogao microondas e etc.', "link": 'https://shope.ee/2feDslSQOv'},
     {"img": 'https://cf.shopee.com.br/file/27a1dc4f41ba48dd31960d774929772c', "nome": '10 - Películas de vidro para Iphones', "link": 'https://shope.ee/2feBwcwkgC'}, 
