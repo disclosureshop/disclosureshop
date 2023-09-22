@@ -4,6 +4,7 @@
 var prod = '';
 var produtos = {"produto":  [
     // {"img": 'assets/logo.jpeg', "nome": '04 - fone de ouvido sem fio bluetooth Pikachu', "link": ''},
+    {"img": 'https://blob.contato.io/machine-user-images/25-cursos-a-497-reais-img-36149-20230831231151.jpg', "nome": '17 - CURSO COMPLETO DE MANUTENÇÃO DE CELULARES', "link": 'https://go.hotmart.com/W86969917V'},
     {"img": 'https://down-br.img.susercontent.com/file/f6b4e1b708ba518c903f6c4c1974ceb8', "nome": '16 - Inpods 12 Fone de Ouvido Bluetooh', "link": 'https://shope.ee/7KQFQ5kHy9'},
     {"img": 'https://down-br.img.susercontent.com/file/ca61d6194860411f2e0b255d45ac1f99', "nome": '15 - Kit com 12 Talheres de Silicone', "link": 'https://shope.ee/5UybDXlLtY'},
     {"img": 'https://down-br.img.susercontent.com/file/3f32d18c6889e5638005f628a0ef6f5d', "nome": '14 - Papel de Parede 3D', "link": 'https://shope.ee/99rtZeMxI8'},
